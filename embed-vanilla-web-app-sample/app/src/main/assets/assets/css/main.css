@@ -1,0 +1,15 @@
+.button {
+    border-radius: 16px;
+    padding: 20px 40px;
+    border: none;
+}
+
+.increment-button {
+    background-color: coral;
+    color: rgb(37, 37, 37);
+}
+
+.decrement-button {
+    background-color: indigo;
+    color: rgb(243, 243, 243);
+}
